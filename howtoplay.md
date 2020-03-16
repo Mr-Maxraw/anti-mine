@@ -1,13 +1,18 @@
-# How To Play
-
-## Controls
-
-- left click on a tile to reveal it.
-- Additionally, pressing enter or space will enable the Tile Selector Tool. When enabled you can reveal the selected tile by pressing space or enter. You can move the selector with the arrow keys. Pressing the escape key hides the selector.
-- Click the gear icon in the bottom center of the page to open the menu.
+# Anti Mine tutorial
 
 ## Game Objective
 
-- In order to win, you must reveal all the tiles that do not contain a mine or an anti mine.
+- To complete the game you need to locate all the mines on the grid.
+- There are two types of mines: regular and anti mines.
 - The patterns of colors on the board give clues to the locations of mines and anti mines.
-- By itself, a mine will brighten the surrounding safe tiles. Likewise, an anti mine will darken its surrounding safe tiles. Be careful, these two effects will cancel eachother out if a mine and anti mine are in close proximity! This is reffered to as two mines annihilating eachother. 
+- By itself, a mine will brighten the surrounding safe tiles. Likewise, an anti mine will darken its surrounding safe tiles. 
+- Be careful, these two effects will cancel eachother out if a mine and anti mine are in close proximity! This is reffered to as two mines annihilating eachother. 
+
+
+## Controls
+
+- You can play game by only using your mouse or keyboard(Tile Selector Tool).
+- Using mouse just click on a tile to reveal it.
+- Pressing enter or space will enable the Tile Selector Tool. When enabled you can reveal the selected tile by pressing space or enter. You can move the selector with the arrow keys. Pressing the escape key hides the selector.
+- Click the gear icon in the bottom center of the page to open the menu.
+- In menu you can modify your game expirience by changing board sizes, mine count(overall) and colour changes.
